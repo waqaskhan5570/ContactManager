@@ -1,0 +1,11 @@
+.header {
+  background: fixed;
+  border-bottom: 2px solid #ea1d6f;
+}
+
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
